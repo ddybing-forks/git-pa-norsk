@@ -4,36 +4,33 @@
 * [Bjorne](https://github.com/bjorne). Det er tatt utgangspunkt i Björns ["git-på-svenska"](https://github.com/bjorne/git-pa-svenska) hva gjelder både idè og layout. 
 
 ## Forslag til fornorsking
-
-Nedan följer tabeller över verb och substantiv relaterade till git,
-deras nuvarande bruk samt förslag på hur vi tillsammans kan bättra
-oss.
+Her er en tabell med forslag til norske ord.
 
 | Verb        | Nåværende      | Forslag       |
 |-------------|----------------|---------------|
-| pull        | pulle          | rycka         |
+| pull        | pulle          | dra           |
 | push        | pushe          | dytte         |
 | fetch       | fetche         | hente         |
 | branch      | branche        | forgrene      |
-| commit      | commite        | förbinda      |
+| commit      | committe       | binde sammen  |
 | rebase      | rebase         | ympa          |
 | merge       | merge          | sammenføye    |
 | squash      | squashe        | knuse         |
 | stash       | stashe         | gjemme        |
 | tag         | tagge          | merke         |
 | cherry-pick | cherry-picke   | kirsebærplukk |
-| amend       | amende         | rätta till    |
+| amend       | amende         | revidere      |
 | blame       | blame          | klandre       |
 
-| Substantiv   | Nåværende      | Forslag     |
-|--------------|----------------|-------------|
-| git          | git            | jävel       |
-| repository   | repo           | förvaring   |
-| branch       | branch         | gren        |
-| commit       | commit         | förbindelse |
-| pull request | pull request   | ryckbegäran |
-| stash        | stash          | gjemme      |
-| tag          | tagg           | merke       |
+| Substantiv   | Nåværende      | Forslag         |
+|--------------|----------------|-----------------|
+| git          | git            | drittsekk       |
+| repository   | repo           | förvaring       |
+| branch       | branch         | gren            |
+| commit       | commit         | förbindelse     |
+| pull request | pull request   | dra-forespørsel |
+| stash        | stash          | gjemme          |
+| tag          | tagg           | merke           |
 
 ## Eksempler
 
@@ -49,7 +46,7 @@ oss.
 
     - Mosa dina förbindelser innan du sammanfogar.
 
-## Dagligt bruk
+## Git i dagligtale
 
 Nedan följer en rad kommandoradskommandon för att sätta upp en svensk
 gitmiljö. Avsaknaden av svenska tecken i täcknamnen beror på en brist i git
