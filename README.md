@@ -1,49 +1,41 @@
-# Git på svenska
+# Git på norsk
 
-## Introduktion
+## Takk til
+* [Bjorne](https://github.com/bjorne). Det er tatt utgangspunkt i Björns ["git-på-svenska"](https://github.com/bjorne/git-pa-svenska) hva gjelder både idè og layout. 
 
-Det dagliga språket för de olika kommandona i `git` (eller `jävel`) är
-på svenska ett enda stort svengelskakalas. Jag finner mig själv ofta
-sägandes _"Kan du pusha branchen?"_ eller _"Jag pullar!"_, vilket
-känns pinsamt.
-
-Detta dokument ämnar etablera en ren svensk jargong som kan användas
-på arbetsplatsen för att med fördel undvika pressade situationer med
-kollegor samt boskap.
-
-## Förslag
+## Forslag til fornorsking
 
 Nedan följer tabeller över verb och substantiv relaterade till git,
 deras nuvarande bruk samt förslag på hur vi tillsammans kan bättra
 oss.
 
-| Verb        | Nuvarande bruk | Förslag       |
+| Verb        | Nåværende      | Forslag       |
 |-------------|----------------|---------------|
-| pull        | pulla          | rycka         |
-| push        | pusha          | knuffa        |
-| fetch       | fetcha         | hämta         |
-| branch      | brancha        | förgrena      |
-| commit      | commita        | förbinda      |
-| rebase      | rebasa         | ympa          |
-| merge       | merga          | sammanfoga    |
-| squash      | squasha        | mosa          |
-| stash       | stasha         | gömma         |
-| tag         | tagga          | märka         |
-| cherry-pick | cherry-picka   | plocka russin |
-| amend       | amenda         | rätta till    |
-| blame       | blamea         | klandra       |
+| pull        | pulle          | rycka         |
+| push        | pushe          | dytte         |
+| fetch       | fetche         | hente         |
+| branch      | branche        | forgrene      |
+| commit      | commite        | förbinda      |
+| rebase      | rebase         | ympa          |
+| merge       | merge          | sammenføye    |
+| squash      | squashe        | knuse         |
+| stash       | stashe         | gjemme        |
+| tag         | tagge          | merke         |
+| cherry-pick | cherry-picke   | kirsebærplukk |
+| amend       | amende         | rätta till    |
+| blame       | blame          | klandre       |
 
-| Substantiv   | Nuvarande bruk | Förslag     |
+| Substantiv   | Nåværende      | Forslag     |
 |--------------|----------------|-------------|
 | git          | git            | jävel       |
 | repository   | repo           | förvaring   |
 | branch       | branch         | gren        |
 | commit       | commit         | förbindelse |
 | pull request | pull request   | ryckbegäran |
-| stash        | stash          | gömma       |
-| tag          | tagg           | märke       |
+| stash        | stash          | gjemme      |
+| tag          | tagg           | merke       |
 
-## Exempel
+## Eksempler
 
     - Kan du rycka grenen jag just ympade och knuffa till github?
 
