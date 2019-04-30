@@ -6,31 +6,31 @@
 ## Forslag til fornorsking
 Her er en tabell med forslag til norske ord.
 
-| Verb        | Nåværende      | Forslag       |
-|-------------|----------------|---------------|
-| pull        | pulle          | dra           |
-| push        | pushe          | dytte         |
-| fetch       | fetche         | hente         |
-| branch      | branche        | forgrene      |
-| commit      | committe       | binde sammen  |
-| rebase      | rebase         | ympa          |
-| merge       | merge          | sammenføye    |
-| squash      | squashe        | knuse         |
-| stash       | stashe         | gjemme        |
-| tag         | tagge          | merke         |
-| cherry-pick | cherry-picke   | kirsebærplukk |
-| amend       | amende         | revidere      |
-| blame       | blame          | klandre       |
+| Verb        | Nåværende      | Forslag          |
+|-------------|----------------|------------------|
+| pull        | pulle          | dra              |
+| push        | pushe          | dytte            |
+| fetch       | fetche         | hente            |
+| branch      | branche        | forgrene         |
+| commit      | committe       | binde sammen     |
+| rebase      | rebase         | ympa             |
+| merge       | merge          | sammenføye       |
+| squash      | squashe        | knuse            |
+| stash       | stashe         | gjemme           |
+| tag         | tagge          | merke            |
+| cherry-pick | cherry-picke   | kirsebærplukking |
+| amend       | amende         | revidere         |
+| blame       | blame          | klandre          |
 
-| Substantiv   | Nåværende      | Forslag         |
-|--------------|----------------|-----------------|
-| git          | git            | drittsekk       |
-| repository   | repo           | förvaring       |
-| branch       | branch         | gren            |
-| commit       | commit         | förbindelse     |
-| pull request | pull request   | dra-forespørsel |
-| stash        | stash          | gjemme          |
-| tag          | tagg           | merke           |
+| Substantiv   | Nåværende      | Forslag          |
+|--------------|----------------|------------------|
+| git          | git            | drittsekk        |
+| repository   | repo           | oppbevaringssted |
+| branch       | branch         | gren             |
+| commit       | commit         | forbinde         |
+| pull request | pull request   | dra-forespørsel  |
+| stash        | stash          | gjemme           |
+| tag          | tagg           | merke            |
 
 ## Eksempler
 
@@ -44,7 +44,7 @@ Her er en tabell med forslag til norske ord.
     
     - Hoppsan, jag råkade visst kraftknuffa mot mäster-grenen.. D:
 
-    - Mosa dina förbindelser innan du sammanfogar.
+    - Knus forbindelsene dine før du sammenføyer
 
 ## Git i dagligtale
 
