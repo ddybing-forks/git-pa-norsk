@@ -29,7 +29,7 @@ Her er en tabell med forslag til norske ord.
 | branch       | branch         | gren             |
 | commit       | commit         | forbinde         |
 | pull request | pull request   | dra-forespørsel  |
-| stash        | stash          | gjemme           |
+| stash        | stash          | tilsidesett     |
 | tag          | tagg           | merke            |
 
 ## Eksempler
@@ -40,11 +40,11 @@ Her er en tabell med forslag til norske ord.
 
     - Skicka en ryckbegäran när du är färdig med sammanfogningen!
 
-    - Låt oss plocka russin från mäster-grenen.
+    - Plukk et kirsebær fra master-grenen.
     
-    - Hoppsan, jag råkade visst kraftknuffa mot mäster-grenen.. D:
+    - Oops, jeg klarte å tvangsdytte til master-grenen!
 
-    - Knus forbindelsene dine før du sammenføyer
+    - Knus forbindelsene dine før du sammenføyer.
 
 ## Git i dagligtale
 
